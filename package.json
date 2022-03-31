@@ -30,7 +30,8 @@
     "lint-staged": ">=10",
     "prettier": "^2.0.2",
     "typedoc": "^0.17.4",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "browserlist": "^1.0.1"
   },
   "husky": {
     "hooks": {
