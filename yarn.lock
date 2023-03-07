@@ -2929,6 +2929,13 @@ browserify-zlib@^0.2.0:
   dependencies:
     pako "~1.0.5"
 
+browserlist@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/browserlist/-/browserlist-1.0.1.tgz#8c52c4fd5ba49c7464b9e0f85d519598b5833ed9"
+  integrity sha512-nYq9jiWv+qXcgrJxQzivfEc7Wo2GvAKkeRViE5L3cUJpq4SZO6NZR710I/8T+OjE5BPECbzpm8rpUkwslE3nTg==
+  dependencies:
+    chalk "^2.4.1"
+
 browserslist@^4.0.0, browserslist@^4.11.1, browserslist@^4.12.0, browserslist@^4.8.5:
   version "4.12.0"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.12.0.tgz#06c6d5715a1ede6c51fc39ff67fd647f740b656d"
@@ -7352,9 +7359,9 @@ minimist-options@^3.0.1:
     is-plain-obj "^1.1.0"
 
 minimist@^1.1.1, minimist@^1.1.3, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
 minipass-collect@^1.0.2:
   version "1.0.2"
